@@ -1,0 +1,406 @@
+Age,Cabin,Embarked,Fare,Name,Pclass,Sex,Survived,Surname,TKID,CabinNum,SingleCluster,clustermale,aliveclustermale,clusterfemale,aliveclusterfemale
+31.09,85,3,8.4583,"Moran, Mr. James",3,2,0.0,Moran,40330877,0,34,2,0.0,6,6.0
+40.0,85,2,27.7208,"Uruchurtu, Don. Manuel E",1,2,0.0,Uruchurtu,20017601,0,4,10,3.0,3,2.0
+47.0,85,1,9.0,"Vander Cruyssen, Mr. Victor",3,2,0.0,Vander Cruyssen,40345765,0,50,11,2.0,0,0.0
+29.0,85,1,7.875,"Zimmerman, Mr. Leo",3,2,0.0,Zimmerman,40315082,0,41,10,1.0,1,0.0
+71.0,85,2,49.5042,"Artagaveytia, Mr. Ramon",1,2,0.0,Artagaveytia,20017609,0,4,10,3.0,3,2.0
+65.0,85,3,7.75,"Duane, Mr. Frank",3,2,0.0,Duane,40336439,0,67,1,0.0,1,1.0
+40.0,66,1,0.0,"Harrison, Mr. William",1,2,0.0,Harrison,40112059,94,79,3,0.0,1,1.0
+23.0,85,1,7.8958,"Jonkoff, Mr. Lalio",3,2,0.0,Jonkoff,40349204,0,76,37,0.0,2,1.0
+45.44,67,1,35.0,"Williams-Lambert, Mr. Fletcher Fellows",1,2,0.0,Williams-Lambert,40113510,128,57,13,4.0,1,1.0
+24.0,85,1,9.5,"Lievens, Mr. Rene Aime",3,2,0.0,Lievens,40345781,0,50,11,2.0,0,0.0
+35.0,85,2,26.55,"Homer, Mr. Harry (""Mr E Haven"")",1,2,1.0,Homer,40111426,0,115,6,4.0,0,0.0
+26.07,85,3,7.75,"Glynn, Miss. Mary Agatha",3,1,1.0,Glynn,40335677,0,67,1,0.0,1,1.0
+32.0,85,1,7.925,"Leinonen, Mr. Antti Gustaf",3,2,0.0,Leinonen,33101292,0,16,11,4.0,3,2.0
+42.0,85,1,13.0,"Hosono, Mr. Masabumi",2,2,1.0,Hosono,40237798,0,109,3,1.0,2,1.0
+30.5,85,3,7.75,"Mangan, Miss. Mary",3,1,0.0,Mangan,40364850,0,46,5,0.0,2,0.0
+27.88,85,2,8.7125,"Paulner, Mr. Uscher",3,2,0.0,Paulner,40003411,0,98,3,0.0,3,2.0
+21.0,85,1,8.6625,"Pasic, Mr. Jakob",3,2,0.0,Pasic,40315097,0,41,10,1.0,1,0.0
+28.0,85,1,12.65,"Trout, Mrs. William H (Jessie L)",2,1,1.0,Trout,40240929,0,63,2,0.0,1,1.0
+56.0,65,2,35.5,"Simonius-Blumer, Col. Oberst Alfons",1,2,1.0,Simonius-Blumer,40013213,26,117,4,2.0,0,0.0
+33.16,85,2,7.8958,"Kraeff, Mr. Theodor",3,2,0.0,Kraeff,40349253,0,76,37,0.0,2,1.0
+22.0,85,1,7.25,"Braund, Mr. Owen Harris",3,2,0.0,Braund,10021171,0,56,3,0.0,0,0.0
+17.0,85,1,8.6625,"Culumovic, Mr. Jeso",3,2,0.0,Culumovic,40315090,0,41,10,1.0,1,0.0
+55.5,85,1,8.05,"Meo, Mr. Alfonzo",3,2,0.0,Meo,10011206,0,99,2,1.0,0,0.0
+17.93,85,3,7.7375,"Mannion, Miss. Margareth",3,1,1.0,Mannion,40036866,0,55,4,0.0,1,1.0
+31.0,85,1,10.5,"Kvillner, Mr. Johan Henrik Johannesson",2,2,0.0,Kvillner,60018723,0,89,2,0.0,0,0.0
+18.0,85,1,8.05,"Cohen, Mr. Gurshon ""Gus""",3,2,1.0,Cohen,10003540,0,47,5,1.0,0,0.0
+22.0,85,1,8.05,"Barton, Mr. David John",3,2,0.0,Barton,40324669,0,65,3,0.0,0,0.0
+20.0,85,1,9.225,"Olsvigen, Mr. Thor Anderson",3,2,0.0,Olsvigen,40006563,0,119,2,0.0,0,0.0
+17.0,85,2,12.0,"Lehmann, Miss. Bertha",2,1,1.0,Lehmann,230001748,0,15,0,0.0,1,1.0
+28.0,85,1,7.8958,"Hendekovic, Mr. Ignjac",3,2,0.0,Hendekovic,40349243,0,76,37,0.0,2,1.0
+33.94,85,2,27.7208,"Lewy, Mr. Ervin G",1,2,0.0,Lewy,20017612,0,4,10,3.0,3,2.0
+28.0,85,1,13.0,"Collander, Mr. Erik Gustaf",2,2,0.0,Collander,40248740,0,59,4,1.0,2,1.0
+42.0,85,1,13.0,"Bystrom, Mrs. (Karolina)",2,1,1.0,Bystrom,40236852,0,88,0,0.0,1,1.0
+51.0,69,1,26.55,"Daly, Mr. Peter Denis ",1,2,1.0,Daly,40113055,17,113,6,1.0,0,0.0
+21.0,85,3,7.75,"Canavan, Miss. Mary",3,1,0.0,Canavan,40364846,0,46,5,0.0,2,0.0
+16.0,85,1,8.05,"Sunderland, Mr. Victor Francis",3,2,1.0,Sunderland,130392089,0,31,5,2.0,1,0.0
+39.0,65,1,0.0,"Andrews, Mr. Thomas Jr",1,2,0.0,Andrews,40112050,36,79,3,0.0,1,1.0
+33.57,69,3,12.35,"Keane, Miss. Nora A",2,1,1.0,Keane,40226593,101,61,0,0.0,1,1.0
+36.0,65,2,40.125,"Ross, Mr. John Hugo",1,2,0.0,Ross,40013049,10,117,4,2.0,0,0.0
+30.23,85,1,8.05,"Simmons, Mr. John",3,2,0.0,Simmons,130392082,0,31,5,2.0,1,0.0
+47.0,85,1,7.25,"Elsbury, Mr. William James",3,2,0.0,Elsbury,10003902,0,47,5,1.0,0,0.0
+29.58,85,1,7.55,"Willey, Mr. Edward",3,2,0.0,Willey,270000751,0,3,1,0.0,0,0.0
+22.0,85,3,7.75,"Connolly, Miss. Kate",3,1,1.0,Connolly,40370373,0,40,5,0.0,3,3.0
+18.0,85,1,7.775,"Pettersson, Miss. Ellen Natalia",3,1,0.0,Pettersson,40347087,0,111,10,1.0,5,2.0
+30.0,85,2,7.2292,"Ibrahim Shawah, Mr. Yousseff",3,2,0.0,Ibrahim Shawah,40002685,0,0,23,3.0,3,3.0
+47.0,68,1,34.0208,"Walker, Mr. William Anderson",1,2,0.0,Walker,40036967,46,55,4,0.0,1,1.0
+22.0,85,1,7.25,"Landergren, Miss. Aurora Adelia",3,1,1.0,Landergren,150007077,0,19,2,0.0,1,1.0
+43.53,85,3,7.75,"McMahon, Mr. Martin",3,2,0.0,McMahon,40370372,0,40,5,0.0,3,3.0
+32.0,85,1,10.5,"Jenkin, Mr. Stephen Curnow",2,2,0.0,Jenkin,60033111,0,103,1,0.0,0,0.0
+47.0,69,1,25.5875,"Colley, Mr. Edward Pomeroy",1,2,0.0,Colley,40005727,58,119,2,0.0,0,0.0
+30.0,85,1,8.05,"Somerton, Mr. Francis William",3,2,0.0,Somerton,10018509,0,101,1,0.0,0,0.0
+17.0,85,1,10.5,"Ilett, Miss. Bertha",2,1,1.0,Ilett,110014885,0,24,0,0.0,1,1.0
+32.0,85,1,7.8958,"Pavlovic, Mr. Stefo",3,2,0.0,Pavlovic,40349242,0,76,37,0.0,2,1.0
+23.63,85,2,7.2292,"Toufik, Mr. Nakli",3,2,0.0,Toufik,40002641,0,0,23,3.0,3,3.0
+32.0,85,1,8.3625,"Gronnestad, Mr. Daniel Danielsen",3,2,0.0,Gronnestad,40008471,0,54,2,0.0,1,1.0
+23.0,68,2,13.7917,"Jerwan, Mrs. Amin S (Marie Marthe Thuillard)",2,1,1.0,Jerwan,260000541,0,25,0,0.0,1,1.0
+74.0,85,1,7.775,"Svensson, Mr. Johan",3,2,0.0,Svensson,40347060,0,111,10,1.0,5,2.0
+40.0,85,1,13.0,"Smith, Miss. Marion Elsie",2,1,1.0,Smith,40031418,0,108,1,0.0,1,1.0
+26.07,85,3,7.75,"Kelly, Miss. Mary",3,1,1.0,Kelly,40014312,0,68,1,0.0,3,3.0
+26.77,85,1,7.8958,"Nankoff, Mr. Minko",3,2,0.0,Nankoff,40349218,0,76,37,0.0,2,1.0
+20.0,85,2,7.2292,"Barah, Mr. Hanna Assi",3,2,1.0,Barah,40002663,0,0,23,3.0,3,3.0
+23.0,85,1,13.0,"Berriman, Mr. William John",2,2,0.0,Berriman,40028425,0,87,6,1.0,3,3.0
+26.0,85,1,7.775,"Bengtsson, Mr. John Viktor",3,2,0.0,Bengtsson,40347068,0,111,10,1.0,5,2.0
+16.0,85,3,7.7333,"Gilnagh, Miss. Katherine ""Katie""",3,1,1.0,Gilnagh,40035851,0,118,1,0.0,2,2.0
+30.0,67,2,27.75,"Foreman, Mr. Benjamin Laventall",1,2,0.0,Foreman,40113051,111,113,6,1.0,0,0.0
+35.0,85,1,8.05,"Allen, Mr. William Henry",3,2,0.0,Allen,40373450,0,104,1,0.0,0,0.0
+19.0,85,1,10.5,"Pengelly, Mr. Frederick William",2,2,0.0,Pengelly,40028665,0,39,5,0.0,0,0.0
+32.0,85,1,7.925,"Tikkanen, Mr. Juho",3,2,0.0,Tikkanen,33101293,0,16,11,4.0,3,2.0
+22.0,85,1,10.5167,"Dahlberg, Miss. Gerda Ulrika",3,1,0.0,Dahlberg,40007552,0,82,2,0.0,2,0.0
+34.0,85,1,8.05,"Theobald, Mr. Thomas Leonard",3,2,0.0,Theobald,40363294,0,114,2,0.0,0,0.0
+20.99,85,2,7.2292,"Moussa, Mrs. (Mantoura Boulos)",3,1,1.0,Moussa,40002626,0,0,23,3.0,3,3.0
+23.0,85,1,11.5,"Hocking, Mr. Richard George",2,2,0.0,Hocking,40029104,0,39,5,0.0,0,0.0
+25.0,85,1,7.25,"Harmer, Mr. Abraham (David Lishin)",3,2,0.0,Harmer,40374887,0,70,3,0.0,0,0.0
+24.0,85,1,7.8958,"Mineff, Mr. Ivan",3,2,0.0,Mineff,40349233,0,76,37,0.0,2,1.0
+45.0,84,1,35.5,"Blackwell, Mr. Stephen Weart",1,2,0.0,Blackwell,40113784,0,57,13,4.0,1,1.0
+26.77,85,1,7.8958,"Ivanoff, Mr. Kanio",3,2,0.0,Ivanoff,40349201,0,76,37,0.0,2,1.0
+26.77,85,1,7.8958,"Mitkoff, Mr. Mito",3,2,0.0,Mitkoff,40349221,0,76,37,0.0,2,1.0
+30.23,85,1,8.05,"Moore, Mr. Leonard Charles",3,2,0.0,Moore,90054510,0,52,1,0.0,0,0.0
+23.0,85,1,7.8542,"Augustsson, Mr. Albert",3,2,0.0,Augustsson,40347468,0,66,7,0.0,1,1.0
+32.1,85,1,13.0,"Williams, Mr. Charles Eugene",2,2,1.0,Williams,40244373,0,38,4,2.0,0,0.0
+62.0,85,1,10.5,"Harris, Mr. George",2,2,1.0,Harris,200000752,0,21,2,2.0,0,0.0
+56.0,65,2,30.6958,"Smith, Mr. James Clinch",1,2,0.0,Smith,40017764,7,42,2,1.0,2,2.0
+23.63,85,2,7.2292,"Doharr, Mr. Tannous",3,2,0.0,Doharr,40002686,0,0,23,3.0,3,3.0
+80.0,65,1,30.0,"Barkworth, Mr. Algernon Henry Wilson",1,2,1.0,Barkworth,40027042,23,87,6,1.0,3,3.0
+30.0,85,1,13.0,"Matthews, Mr. William John",2,2,0.0,Matthews,40028228,0,87,6,1.0,3,3.0
+30.23,85,1,8.05,"Shorney, Mr. Charles Joseph",3,2,0.0,Shorney,40374910,0,70,3,0.0,0,0.0
+30.0,85,1,7.25,"Adahl, Mr. Mauritz Nils Martin",3,2,0.0,Adahl,150007076,0,19,2,0.0,1,1.0
+34.5,85,2,6.4375,"Lemberopolous, Mr. Peter L",3,2,0.0,Lemberopolous,40002683,0,0,23,3.0,3,3.0
+26.53,85,2,7.225,"Lahoud, Mr. Sarkis",3,2,0.0,Lahoud,40002624,0,0,23,3.0,3,3.0
+35.0,85,1,7.125,"Rintamaki, Mr. Matti",3,2,0.0,Rintamaki,33101273,0,16,11,4.0,3,2.0
+26.77,85,1,7.8958,"Denkoff, Mr. Mitto",3,2,0.0,Denkoff,40349225,0,76,37,0.0,2,1.0
+28.76,85,1,7.775,"Rommetvedt, Mr. Knud Paust",3,2,0.0,Rommetvedt,40312993,0,92,3,1.0,0,0.0
+33.0,85,2,7.8958,"Drazenoic, Mr. Jozef",3,2,0.0,Drazenoic,40349241,0,76,37,0.0,2,1.0
+28.0,85,1,13.5,"Norman, Mr. Robert Douglas",2,2,0.0,Norman,40218629,0,35,2,0.0,0,0.0
+17.0,85,1,8.6625,"Calic, Mr. Petar",3,2,0.0,Calic,40315086,0,41,10,1.0,1,0.0
+30.23,85,1,8.05,"Murdlin, Mr. Joseph",3,2,0.0,Murdlin,10003235,0,47,5,1.0,0,0.0
+66.0,85,1,10.5,"Wheadon, Mr. Edward H",2,2,0.0,Wheadon,60024579,0,51,2,0.0,0,0.0
+26.07,85,3,7.75,"O'Driscoll, Miss. Bridget",3,1,1.0,O'Driscoll,40014311,0,68,1,0.0,3,3.0
+62.0,85,1,26.55,"Wright, Mr. George",1,2,0.0,Wright,40113807,0,57,13,4.0,1,1.0
+43.53,85,3,7.75,"O'Connor, Mr. Maurice",3,2,0.0,O'Connor,40371060,0,40,5,0.0,3,3.0
+38.0,85,1,7.8958,"Rekic, Mr. Tido",3,2,0.0,Rekic,40349249,0,76,37,0.0,2,1.0
+13.0,85,2,7.2292,"Ayoub, Miss. Banoura",3,1,1.0,Ayoub,40002687,0,0,23,3.0,3,3.0
+28.0,85,1,9.5,"Vanden Steen, Mr. Leo Peter",3,2,0.0,Vanden Steen,40345783,0,50,11,2.0,0,0.0
+64.0,85,1,26.0,"Nicholson, Mr. Arthur Ernest",1,2,0.0,Nicholson,40000693,0,83,2,0.0,0,0.0
+22.0,85,1,7.8958,"Vovk, Mr. Janko",3,2,0.0,Vovk,40349252,0,76,37,0.0,2,1.0
+20.0,85,1,7.925,"Alhomaki, Mr. Ilmari Rudolf",3,2,0.0,Alhomaki,293101287,0,9,1,0.0,0,0.0
+22.0,85,1,7.775,"Ohman, Miss. Velin",3,1,1.0,Ohman,40347085,0,111,10,1.0,5,2.0
+21.0,85,1,7.7958,"Jansson, Mr. Carl Olof",3,2,1.0,Jansson,40350034,0,37,10,2.0,2,0.0
+20.0,85,1,7.05,"Coelho, Mr. Domingos Fernandeo",3,2,0.0,Coelho,133101307,0,8,8,0.0,0,0.0
+23.0,85,2,15.0458,"Richard, Mr. Emile",2,2,0.0,Richard,70002133,0,6,4,1.0,0,0.0
+21.0,85,1,7.775,"Birkeland, Mr. Hans Martin Monsen",3,2,0.0,Birkeland,40312992,0,92,3,1.0,0,0.0
+28.0,85,1,7.8542,"Olsson, Mr. Nils Johan Goransson",3,2,0.0,Olsson,40347464,0,66,7,0.0,1,1.0
+26.0,85,1,10.5,"Gavey, Mr. Lawrence",2,2,0.0,Gavey,40031028,0,108,1,0.0,1,1.0
+25.0,85,1,7.05,"Ali, Mr. William",3,2,0.0,Ali,133101312,0,8,8,0.0,0,0.0
+45.0,85,1,6.975,"Ekstrom, Mr. Johan",3,2,0.0,Ekstrom,40347061,0,111,10,1.0,5,2.0
+21.0,85,1,7.925,"Sivola, Mr. Antti Wilhelm",3,2,0.0,Sivola,33101280,0,16,11,4.0,3,2.0
+38.0,85,1,13.0,"Funk, Miss. Annie Clemmer",2,1,0.0,Funk,40237671,0,109,3,1.0,2,1.0
+16.0,85,1,7.775,"Eklund, Mr. Hans Linus",3,2,0.0,Eklund,40347074,0,111,10,1.0,5,2.0
+29.0,85,1,7.775,"Larsson, Mr. Bengt Edvin",3,2,0.0,Larsson,40347067,0,111,10,1.0,5,2.0
+23.63,85,2,7.2292,"Kassem, Mr. Fared",3,2,0.0,Kassem,40002700,0,0,23,3.0,3,3.0
+28.76,85,1,7.775,"Moss, Mr. Albert Johan",3,2,1.0,Moss,40312991,0,92,3,1.0,0,0.0
+51.0,85,1,8.05,"Green, Mr. George Henry",3,2,0.0,Green,40021440,0,86,1,0.0,0,0.0
+42.0,85,1,13.0,"Byles, Rev. Thomas Roussel Davids",2,2,0.0,Byles,40244310,0,38,4,2.0,0,0.0
+23.0,85,1,7.55,"Stanley, Miss. Amy Zillah Elsie",3,1,1.0,Stanley,60002314,0,44,0,0.0,1,1.0
+20.0,85,1,8.05,"Saundercock, Mr. William Henry",3,2,0.0,Saundercock,10002151,0,105,2,0.0,0,0.0
+33.0,85,1,12.275,"Hunt, Mr. George Henry",2,2,0.0,Hunt,210001585,0,1,1,0.0,0,0.0
+19.0,85,1,10.5,"Mellors, Mr. William John",2,2,1.0,Mellors,200000751,0,21,2,2.0,0,0.0
+36.0,85,1,13.0,"Fox, Mr. Stanley Hubert",2,2,0.0,Fox,40229236,0,107,1,0.0,1,1.0
+26.0,85,1,7.925,"Heikkinen, Miss. Laina",3,1,1.0,Heikkinen,33101282,0,16,11,4.0,3,2.0
+59.0,85,1,13.5,"Sjostedt, Mr. Ernst Adolf",2,2,0.0,Sjostedt,40237442,0,109,3,1.0,2,1.0
+31.0,85,1,8.6833,"Osman, Mrs. Mara",3,1,1.0,Osman,40349244,0,76,37,0.0,2,1.0
+44.7,65,1,50.0,"Rood, Mr. Hugh Roscoe",1,2,0.0,Rood,40113767,32,57,13,4.0,1,1.0
+32.0,66,2,30.5,"Stahelin-Maeglin, Dr. Max",1,2,1.0,Stahelin-Maeglin,40013214,50,117,4,2.0,0,0.0
+34.0,70,1,10.5,"Lemore, Mrs. (Amelia Milley)",2,1,1.0,Lemore,60034260,33,74,0,0.0,1,1.0
+24.0,85,1,10.5,"Leyson, Mr. Robert William Norman",2,2,0.0,Leyson,60029566,0,110,2,0.0,1,1.0
+24.6,85,1,8.1125,"Johannesen-Bratthammer, Mr. Bernt",3,2,1.0,Johannesen-Bratthammer,40065306,0,45,1,1.0,0,0.0
+52.0,85,1,13.5,"Chapman, Mr. Charles Henry",2,2,0.0,Chapman,40248731,0,59,4,1.0,2,1.0
+20.04,85,1,8.05,"Meanwell, Miss. (Marion Ogden)",3,1,0.0,Meanwell,130392087,0,31,5,2.0,1,0.0
+47.0,85,1,15.0,"Jarvis, Mr. John Denzil",2,2,0.0,Jarvis,40237565,0,109,3,1.0,2,1.0
+28.0,85,1,13.0,"Reynaldo, Ms. Encarnacion",2,1,1.0,Reynaldo,40230434,0,107,1,0.0,1,1.0
+26.53,85,2,7.225,"Elias, Mr. Dibo",3,2,0.0,Elias,40002674,0,0,23,3.0,3,3.0
+43.53,70,3,7.75,"Tobin, Mr. Roger",3,2,0.0,Tobin,40383121,38,53,2,1.0,0,0.0
+25.0,85,2,7.225,"Saad, Mr. Khalil",3,2,0.0,Saad,40002672,0,0,23,3.0,3,3.0
+33.0,85,1,7.775,"Johnson, Mr. Malkolm Joackim",3,2,0.0,Johnson,40347062,0,111,10,1.0,5,2.0
+26.77,85,1,7.8958,"Staneff, Mr. Ivan",3,2,0.0,Staneff,40349208,0,76,37,0.0,2,1.0
+30.23,85,1,8.05,"Williams, Mr. Howard Hugh ""Harry""",3,2,0.0,Williams,10002466,0,105,2,0.0,0,0.0
+20.0,85,1,8.6625,"Oreskovic, Mr. Luka",3,2,0.0,Oreskovic,40315094,0,41,10,1.0,1,0.0
+34.0,85,1,26.55,"Seward, Mr. Frederic Kimber",1,2,1.0,Seward,40113794,0,57,13,4.0,1,1.0
+58.0,67,1,26.55,"Bonnell, Miss. Elizabeth",1,1,1.0,Bonnell,40113783,103,57,13,4.0,1,1.0
+30.0,85,1,13.0,"Hale, Mr. Reginald",2,2,0.0,Hale,40250653,0,85,2,0.0,1,1.0
+26.0,85,1,7.8542,"Nilsson, Miss. Helmina Josefina",3,1,1.0,Nilsson,40347470,0,66,7,0.0,1,1.0
+58.0,66,2,29.7,"Kent, Mr. Edward Austin",1,2,0.0,Kent,40011771,37,93,2,0.0,0,0.0
+24.0,85,1,7.7958,"Svensson, Mr. Olof",3,2,0.0,Svensson,40350035,0,37,10,2.0,2,0.0
+71.0,65,2,34.6542,"Goldschmidt, Mr. George B",1,2,0.0,Goldschmidt,20017754,5,4,10,3.0,3,2.0
+19.0,85,1,7.8958,"Stoytcheff, Mr. Ilia",3,2,0.0,Stoytcheff,40349205,0,76,37,0.0,2,1.0
+45.5,67,1,28.5,"Partner, Mr. Austen",1,2,0.0,Partner,40113043,124,113,6,1.0,0,0.0
+26.0,85,1,8.05,"Adams, Mr. John",3,2,0.0,Adams,40341826,0,71,4,0.0,1,1.0
+44.0,85,1,8.05,"Kelly, Mr. James",3,2,0.0,Kelly,40363592,0,114,2,0.0,0,0.0
+19.0,85,1,8.05,"Beavan, Mr. William Thomas",3,2,0.0,Beavan,40323951,0,65,3,0.0,0,0.0
+27.0,85,1,30.5,"Daniel, Mr. Robert Williams",1,2,1.0,Daniel,40113804,0,57,13,4.0,1,1.0
+70.0,85,1,10.5,"Mitchell, Mr. Henry Michael",2,2,0.0,Mitchell,60024580,0,51,2,0.0,0,0.0
+35.0,85,1,10.5,"Slemen, Mr. Richard James",2,2,0.0,Slemen,40028206,0,87,6,1.0,3,3.0
+21.89,85,3,7.8292,"O'Leary, Miss. Hanora ""Norah""",3,1,1.0,O'Leary,40330919,0,34,2,0.0,6,6.0
+19.0,85,1,8.1583,"Crease, Mr. Ernest James",3,2,0.0,Crease,100003464,0,28,1,0.0,0,0.0
+56.0,85,1,26.55,"Smart, Mr. John Montgomery",1,2,0.0,Smart,40113792,0,57,13,4.0,1,1.0
+28.0,85,1,13.0,"Davis, Miss. Mary",2,1,1.0,Davis,40237668,0,109,3,1.0,2,1.0
+23.63,85,2,7.2292,"Razi, Mr. Raihed",3,2,0.0,Razi,40002629,0,0,23,3.0,3,3.0
+17.0,85,1,7.925,"Andersson, Miss. Erna Alexandra",3,1,1.0,Andersson,43101281,0,33,1,0.0,2,2.0
+27.0,85,1,7.8958,"Danoff, Mr. Yoto",3,2,0.0,Danoff,40349219,0,76,37,0.0,2,1.0
+26.07,85,3,7.75,"Kelly, Miss. Anna Katherine ""Annie Kate""",3,1,1.0,Kelly,40009234,0,54,2,0.0,1,1.0
+61.0,66,1,33.5,"Van der hoef, Mr. Wyckoff",1,2,0.0,Van der hoef,40111240,19,115,6,4.0,0,0.0
+27.44,85,3,7.7292,"Sadlier, Mr. Matthew",3,2,0.0,Sadlier,40367655,0,77,3,1.0,0,0.0
+50.0,85,1,8.05,"Rouse, Mr. Richard Henry",3,2,0.0,Rouse,10003594,0,47,5,1.0,0,0.0
+23.0,85,1,7.925,"Heininen, Miss. Wendla Maria",3,1,0.0,Heininen,33101290,0,16,11,4.0,3,2.0
+27.0,85,1,13.0,"Bracken, Mr. James H",2,2,0.0,Bracken,40220367,0,94,1,0.0,0,0.0
+29.0,85,1,9.5,"Sheerlinck, Mr. Jan Baptist",3,2,1.0,Sheerlinck,40345779,0,50,11,2.0,0,0.0
+61.0,68,1,32.3208,"Sutton, Mr. Frederick",1,2,0.0,Sutton,40036963,50,55,4,0.0,1,1.0
+26.0,67,2,30.0,"Behr, Mr. Karl Howell",1,2,1.0,Behr,40111369,148,115,6,4.0,0,0.0
+28.0,85,1,7.8958,"Petranec, Miss. Matilda",3,1,0.0,Petranec,40349245,0,76,37,0.0,2,1.0
+35.37,67,1,35.5,"Woolner, Mr. Hugh",1,2,1.0,Woolner,40019947,52,91,3,2.0,0,0.0
+26.0,85,1,7.8875,"Alexander, Mr. William",3,2,0.0,Alexander,40003474,0,98,3,0.0,3,2.0
+23.63,85,2,7.2292,"Saad, Mr. Amin",3,2,0.0,Saad,40002671,0,0,23,3.0,3,3.0
+22.0,85,1,7.25,"Dennis, Mr. Samuel",3,2,0.0,Dennis,10021172,0,56,3,0.0,0,0.0
+63.0,85,1,9.5875,"Turkula, Mrs. (Hedwig)",3,1,1.0,Turkula,40004134,0,98,3,0.0,3,2.0
+20.0,85,1,8.6625,"Oreskovic, Miss. Marija",3,1,0.0,Oreskovic,40315096,0,41,10,1.0,1,0.0
+42.0,70,1,7.65,"Humblen, Mr. Adolf Mathias Nicolai Olsen",3,2,0.0,Humblen,40348121,0,66,7,0.0,1,1.0
+39.0,85,1,13.0,"Meyer, Mr. August",2,2,0.0,Meyer,40248723,0,59,4,1.0,2,1.0
+22.0,85,1,9.8375,"Strandberg, Miss. Ida Sofia",3,1,0.0,Strandberg,40007553,0,82,2,0.0,2,0.0
+25.0,70,1,7.65,"Moen, Mr. Sigurd Hansen",3,2,0.0,Moen,40348123,0,66,7,0.0,1,1.0
+28.0,85,1,7.8958,"Mionoff, Mr. Stoytcho",3,2,0.0,Mionoff,40349207,0,76,37,0.0,2,1.0
+54.0,85,1,14.0,"Moraweck, Dr. Ernest",2,2,0.0,Moraweck,40029011,0,39,5,0.0,0,0.0
+21.0,85,1,10.5,"Rugg, Miss. Emily",2,1,1.0,Rugg,60031026,0,13,0,0.0,1,1.0
+29.0,70,1,10.5,"Nye, Mrs. (Elizabeth Ramell)",2,1,1.0,Nye,60029395,33,110,2,0.0,1,1.0
+46.06,85,1,25.925,"Baumann, Mr. John D",1,2,0.0,Baumann,20017318,0,4,10,3.0,3,2.0
+18.0,85,1,7.4958,"Sjoblom, Miss. Anna Sofia",3,1,1.0,Sjoblom,43101265,0,33,1,0.0,2,2.0
+34.0,68,1,13.0,"Beesley, Mr. Lawrence",2,2,1.0,Beesley,40248698,56,59,4,1.0,2,1.0
+25.4,85,3,6.95,"Flynn, Mr. John",3,2,0.0,Flynn,40368323,0,96,2,0.0,0,0.0
+29.0,85,1,7.0458,"Braund, Mr. Lewis Richard",3,2,0.0,Braund,40003460,0,98,3,0.0,3,2.0
+45.5,85,2,7.225,"Youseff, Mr. Gerious",3,2,0.0,Youseff,40002628,0,0,23,3.0,3,3.0
+33.0,85,1,8.6542,"Johansson, Mr. Gustaf Joel",3,2,0.0,Johansson,40007540,0,82,2,0.0,2,0.0
+29.58,85,1,7.3125,"Olsen, Mr. Ole Martin",3,2,0.0,Olsen,170265302,0,26,1,0.0,0,0.0
+24.0,85,1,8.05,"Celotti, Mr. Francesco",3,2,0.0,Celotti,40343275,0,71,4,0.0,1,1.0
+20.0,85,1,9.5,"Hampe, Mr. Leon",3,2,0.0,Hampe,40345769,0,50,11,2.0,0,0.0
+17.0,85,1,7.125,"Kallio, Mr. Nikolai Erland",3,2,0.0,Kallio,33101274,0,16,11,4.0,3,2.0
+26.53,85,2,7.225,"Emir, Mr. Farred Chehab",3,2,0.0,Emir,40002631,0,0,23,3.0,3,3.0
+40.5,85,3,7.75,"Farrell, Mr. James",3,2,0.0,Farrell,40367232,0,77,3,1.0,0,0.0
+26.85,85,1,9.5,"van Melkebeke, Mr. Philemon",3,2,0.0,van Melkebeke,40345777,0,50,11,2.0,0,0.0
+30.0,85,3,12.35,"Slayter, Miss. Hilda Mary",2,1,1.0,Slayter,40234818,0,78,3,0.0,2,2.0
+29.58,85,1,7.25,"Wiseman, Mr. Phillippe",3,2,0.0,Wiseman,90034244,0,10,1,0.0,0,0.0
+48.0,69,1,26.55,"Anderson, Mr. Harry",1,2,1.0,Anderson,40019952,12,91,3,2.0,0,0.0
+24.0,67,2,49.5042,"Mayne, Mlle. Berthe Antonine (""Mrs de Villiers"")",1,1,1.0,Mayne,20017482,90,4,10,3.0,3,2.0
+38.0,85,1,0.0,"Reuchlin, Jonkheer. John George",1,2,0.0,Reuchlin,40019972,0,91,3,2.0,0,0.0
+21.0,85,1,8.05,"Stanley, Mr. Edward Roland",3,2,0.0,Stanley,90045380,0,80,1,0.0,0,0.0
+25.4,85,3,6.8583,"Hart, Mr. Henry",3,2,0.0,Hart,40394140,0,112,1,0.0,0,0.0
+25.0,85,1,7.05,"Sutehall, Mr. Henry Jr",3,2,0.0,Sutehall,130392076,0,31,5,2.0,1,0.0
+24.5,85,1,8.05,"Sawyer, Mr. Frederick Charles",3,2,0.0,Sawyer,40342826,0,71,4,0.0,1,1.0
+42.0,69,1,26.2875,"Calderhead, Mr. Edward Pennington",1,2,1.0,Calderhead,20017476,24,4,10,3.0,3,2.0
+37.0,85,1,9.5875,"Laitinen, Miss. Kristina Sofia",3,1,0.0,Laitinen,40004135,0,98,3,0.0,3,2.0
+28.0,85,1,7.7958,"Carlsson, Mr. August Sigfrid",3,2,0.0,Carlsson,40350042,0,37,10,2.0,2,0.0
+19.0,66,1,30.0,"Graham, Miss. Margaret Edith",1,1,1.0,Graham,40112053,42,79,3,0.0,1,1.0
+24.0,85,1,7.4958,"Coleff, Mr. Satio",3,2,0.0,Coleff,40349209,0,76,37,0.0,2,1.0
+32.0,69,1,8.05,"Pickard, Mr. Berk (Berk Trembisky)",3,2,1.0,Pickard,130392078,10,31,5,2.0,1,0.0
+31.0,65,1,50.4958,"Roebling, Mr. Washington Augustus II",1,2,0.0,Roebling,20017590,24,4,10,3.0,3,2.0
+24.0,85,1,7.1417,"Madsen, Mr. Fridtjof Arne",3,2,1.0,Madsen,150017369,0,58,1,1.0,0,0.0
+21.0,85,1,7.925,"Pekoniemi, Mr. Edvard",3,2,0.0,Pekoniemi,33101294,0,16,11,4.0,3,2.0
+31.0,85,1,7.775,"Johansson, Mr. Karl Johan",3,2,0.0,Johansson,40347063,0,111,10,1.0,5,2.0
+38.0,85,1,7.05,"Goncalves, Mr. Manuel Estanslas",3,2,0.0,Goncalves,133101306,0,8,8,0.0,0,0.0
+21.0,85,1,7.8542,"Hansen, Mr. Henry Damsgaard",3,2,0.0,Hansen,40350029,0,37,10,2.0,2,0.0
+26.77,85,1,7.8958,"Sdycoff, Mr. Todor",3,2,0.0,Sdycoff,40349222,0,76,37,0.0,2,1.0
+29.0,85,1,8.05,"Christmann, Mr. Emil",3,2,0.0,Christmann,40343276,0,71,4,0.0,1,1.0
+36.0,85,1,7.8958,"Turcin, Mr. Stjepan",3,2,0.0,Turcin,40349247,0,76,37,0.0,2,1.0
+29.58,85,1,7.25,"Reed, Mr. James George",3,2,0.0,Reed,40362316,0,100,1,0.0,0,0.0
+22.0,85,1,8.05,"Gilinski, Mr. Eliezer",3,2,0.0,Gilinski,40014973,0,68,1,0.0,3,3.0
+39.0,85,1,7.925,"Salonen, Mr. Johan Werner",3,2,0.0,Salonen,43101296,0,33,1,0.0,2,2.0
+35.0,85,1,7.05,"Asim, Mr. Adola",3,2,0.0,Asim,133101310,0,8,8,0.0,0,0.0
+31.0,85,3,7.75,"Connaghton, Mr. Michael",3,2,0.0,Connaghton,40335097,0,97,2,0.0,0,0.0
+50.0,67,2,28.7125,"Isham, Miss. Ann Elizabeth",1,1,0.0,Isham,20017595,49,4,10,3.0,3,2.0
+29.0,68,1,30.0,"Long, Mr. Milton Clyde",1,2,0.0,Long,40113501,6,57,13,4.0,1,1.0
+25.0,85,1,13.0,"Sobey, Mr. Samuel James Hayden",2,2,0.0,Sobey,60029178,0,110,2,0.0,1,1.0
+21.0,85,1,7.65,"Salkjelsvik, Miss. Anna Kristine",3,1,1.0,Salkjelsvik,40343120,0,71,4,0.0,1,1.0
+32.0,85,3,7.75,"Dooley, Mr. Patrick",3,2,0.0,Dooley,40370376,0,40,5,0.0,3,3.0
+21.0,85,1,8.4333,"Kalvik, Mr. Johannes Halvorsen",3,2,0.0,Kalvik,40008475,0,54,2,0.0,1,1.0
+17.0,85,1,8.6625,"Calic, Mr. Jovo",3,2,0.0,Calic,40315093,0,41,10,1.0,1,0.0
+44.0,66,2,27.7208,"Brown, Mrs. James Joseph (Margaret Tobin)",1,1,1.0,Brown,20017610,4,4,10,3.0,3,2.0
+21.0,85,1,7.8,"Nosworthy, Mr. Richard Cater",3,2,0.0,Nosworthy,90039886,0,73,1,0.0,0,0.0
+48.5,85,1,26.55,"Bradley, Mr. George (""George Arthur Brayton"")",1,2,1.0,Bradley,40111427,0,115,6,4.0,0,0.0
+19.0,85,1,13.0,"Carbines, Mr. William",2,2,0.0,Carbines,40028424,0,87,6,1.0,3,3.0
+29.0,85,3,7.75,"Daly, Mr. Eugene Patrick",3,2,1.0,Daly,40382651,0,53,2,1.0,0,0.0
+30.0,85,1,7.8958,"Karaic, Mr. Milan",3,2,0.0,Karaic,40349246,0,76,37,0.0,2,1.0
+30.23,85,1,8.05,"Webber, Mr. James",3,2,0.0,Webber,133101316,0,8,8,0.0,0,0.0
+23.39,85,1,8.6625,"Smiljanic, Mr. Mile",3,2,0.0,Smiljanic,40315037,0,41,10,1.0,1,0.0
+27.44,85,3,7.7333,"O'Connell, Mr. Patrick D",3,2,0.0,O'Connell,40334912,0,97,2,0.0,0,0.0
+31.74,85,3,7.8292,"O'Brien, Mr. Timothy",3,2,0.0,O'Brien,40330979,0,34,2,0.0,6,6.0
+26.07,85,3,7.75,"Healy, Miss. Hanora ""Nora""",3,1,1.0,Healy,40370375,0,40,5,0.0,3,3.0
+51.0,85,1,7.75,"Widegren, Mr. Carl/Charles Peter",3,2,0.0,Widegren,40347064,0,111,10,1.0,5,2.0
+26.07,85,3,7.75,"Madigan, Miss. Margaret ""Maggie""",3,1,1.0,Madigan,40370370,0,40,5,0.0,3,3.0
+55.0,67,1,30.5,"Molson, Mr. Harry Markland",1,2,0.0,Molson,40113787,30,57,13,4.0,1,1.0
+25.0,85,1,13.0,"Sedgwick, Mr. Charles Frederick Waddington",2,2,0.0,Sedgwick,40244361,0,38,4,2.0,0,0.0
+50.0,85,1,13.0,"Hodges, Mr. Henry Price",2,2,0.0,Hodges,40250643,0,85,2,0.0,1,1.0
+30.23,85,1,8.05,"Maisner, Mr. Simon",3,2,0.0,Maisner,250002816,0,18,1,0.0,0,0.0
+51.0,85,1,7.0542,"Lundahl, Mr. Johan Svensson",3,2,0.0,Lundahl,40347743,0,66,7,0.0,1,1.0
+19.0,85,1,7.775,"Gustafsson, Mr. Karl Gideon",3,2,0.0,Gustafsson,40347069,0,111,10,1.0,5,2.0
+19.0,70,1,7.65,"Soholt, Mr. Peter Andreas Lauritz Andersen",3,2,0.0,Soholt,40348124,0,66,7,0.0,1,1.0
+33.0,85,1,7.8958,"Markun, Mr. Johann",3,2,0.0,Markun,40349257,0,76,37,0.0,2,1.0
+48.76,65,1,26.0,"Smith, Mr. Richard William",1,2,0.0,Smith,40113056,19,113,6,1.0,0,0.0
+34.0,85,1,8.05,"Morley, Mr. William",3,2,0.0,Morley,40364506,0,46,5,0.0,2,0.0
+27.0,85,1,13.0,"Montvila, Rev. Juozas",2,2,0.0,Montvila,40211536,0,69,1,0.0,0,0.0
+31.0,85,1,7.8542,"Olsson, Miss. Elina",3,1,0.0,Olsson,40350407,0,37,10,2.0,2,0.0
+31.0,85,1,7.925,"Stranden, Mr. Juho",3,2,1.0,Stranden,33101288,0,16,11,4.0,3,2.0
+16.0,85,1,9.5,"de Pelsmaeker, Mr. Alfons",3,2,0.0,de Pelsmaeker,40345778,0,50,11,2.0,0,0.0
+48.0,85,1,7.8542,"Jensen, Mr. Niels Peder",3,2,0.0,Jensen,40350047,0,37,10,2.0,2,0.0
+23.0,85,1,13.0,"Eitemiller, Mr. George Floyd",2,2,0.0,Eitemiller,40029751,0,39,5,0.0,0,0.0
+40.0,85,1,7.8958,"Sivic, Mr. Husein",3,2,0.0,Sivic,40349251,0,76,37,0.0,2,1.0
+38.0,85,1,8.6625,"Cacic, Mr. Luka",3,2,0.0,Cacic,40315089,0,41,10,1.0,1,0.0
+21.78,85,1,7.55,"Harknett, Miss. Alice Phoebe",3,1,0.0,Harknett,120006609,0,72,0,0.0,1,0.0
+24.0,85,1,13.0,"Gill, Mr. John William",2,2,0.0,Gill,40233866,0,78,3,0.0,2,2.0
+14.0,85,1,7.8542,"Vestrom, Miss. Hulda Amanda Adolfina",3,1,0.0,Vestrom,40350406,0,37,10,2.0,2,0.0
+43.0,85,1,8.05,"Cook, Mr. Jacob",3,2,0.0,Cook,10003536,0,47,5,1.0,0,0.0
+22.0,85,1,7.25,"Perkin, Mr. John Henry",3,2,0.0,Perkin,10021174,0,56,3,0.0,0,0.0
+19.0,85,3,7.8792,"Devaney, Miss. Margaret Delia",3,1,1.0,Devaney,40330958,0,34,2,0.0,6,6.0
+26.77,85,1,7.8958,"Plotcharsky, Mr. Vasil",3,2,0.0,Plotcharsky,40349227,0,76,37,0.0,2,1.0
+23.5,85,2,7.2292,"Hanna, Mr. Mansour",3,2,0.0,Hanna,40002693,0,0,23,3.0,3,3.0
+26.0,85,1,7.8958,"Bostandyeff, Mr. Guentcho",3,2,0.0,Bostandyeff,40349224,0,76,37,0.0,2,1.0
+28.0,85,1,10.5,"Banfield, Mr. Frederick James",2,2,0.0,Banfield,300034068,0,32,1,0.0,0,0.0
+49.0,68,1,25.9292,"Leader, Dr. Alice (Farnham)",1,1,1.0,Leader,40017465,17,42,2,1.0,2,2.0
+23.0,85,1,13.0,"Troupiansky, Mr. Moses Aaron",2,2,0.0,Troupiansky,40233639,0,78,3,0.0,2,2.0
+30.23,85,1,8.05,"Rogers, Mr. William John",3,2,0.0,Rogers,80023567,0,20,1,0.0,0,0.0
+43.53,85,3,7.75,"Smith, Mr. Thomas",3,2,0.0,Smith,40384461,0,116,1,0.0,0,0.0
+18.0,85,1,7.7958,"Fischer, Mr. Eberhard Thelander",3,2,0.0,Fischer,40350036,0,37,10,2.0,2,0.0
+60.0,85,1,26.55,"Weir, Col. John",1,2,0.0,Weir,40113800,0,57,13,4.0,1,1.0
+33.0,85,2,8.6625,"Stankovic, Mr. Ivan",3,2,0.0,Stankovic,40349239,0,76,37,0.0,2,1.0
+59.0,85,1,7.25,"Coxon, Mr. Daniel",3,2,0.0,Coxon,40364500,0,46,5,0.0,2,0.0
+45.0,85,1,26.55,"Romaine, Mr. Charles Hallace (""Mr C Rolmane"")",1,2,1.0,Romaine,40111428,0,115,6,4.0,0,0.0
+20.0,85,2,4.0125,"Betros, Mr. Tannous",3,2,0.0,Betros,40002648,0,0,23,3.0,3,3.0
+24.65,85,3,7.7875,"McDermott, Miss. Brigdet Delia",3,1,1.0,McDermott,40330932,0,34,2,0.0,6,6.0
+24.0,85,1,7.05,"Ali, Mr. Ahmed",3,2,0.0,Ali,133101311,0,8,8,0.0,0,0.0
+27.0,85,1,8.6625,"Lulic, Mr. Nikola",3,2,1.0,Lulic,40315098,0,41,10,1.0,1,0.0
+47.0,69,1,38.5,"Gee, Mr. Arthur H",1,2,0.0,Gee,40111320,63,115,6,4.0,0,0.0
+22.0,85,1,7.5208,"Karlsson, Mr. Nils August",3,2,0.0,Karlsson,40350060,0,37,10,2.0,2,0.0
+34.76,85,2,15.05,"Pernot, Mr. Rene",2,2,0.0,Pernot,70002131,0,6,4,1.0,0,0.0
+30.23,85,1,8.05,"Moutal, Mr. Rahamin Haim",3,2,0.0,Moutal,40374746,0,70,3,0.0,0,0.0
+28.0,65,1,35.5,"Sloper, Mr. William Thompson",1,2,1.0,Sloper,40113788,6,57,13,4.0,1,1.0
+23.0,85,1,9.225,"Odahl, Mr. Nils Martin",3,2,0.0,Odahl,40007267,0,82,2,0.0,2,0.0
+34.0,85,1,13.0,"Gillespie, Mr. William Henry",2,2,0.0,Gillespie,40012233,0,93,2,0.0,0,0.0
+27.0,85,1,7.925,"Honkanen, Miss. Eliina",3,1,1.0,Honkanen,33101283,0,16,11,4.0,3,2.0
+43.53,85,3,7.75,"Mernagh, Mr. Robert",3,2,0.0,Mernagh,40368703,0,96,2,0.0,0,0.0
+33.0,66,1,5.0,"Carlsson, Mr. Frans Olof",1,2,0.0,Carlsson,40000695,51,83,2,0.0,0,0.0
+17.93,85,3,7.7333,"Mullens, Miss. Katherine ""Katie""",3,1,1.0,Mullens,40035852,0,118,1,0.0,2,2.0
+45.0,66,1,26.55,"Butt, Major. Archibald Willingham",1,2,0.0,Butt,40113050,38,113,6,1.0,0,0.0
+26.53,85,2,7.225,"Yousif, Mr. Wazli",3,2,0.0,Yousif,40002647,0,0,23,3.0,3,3.0
+25.0,85,1,7.8958,"Dantcheff, Mr. Ristiu",3,2,0.0,Dantcheff,40349203,0,76,37,0.0,2,1.0
+24.0,85,1,13.0,"Yrois, Miss. Henriette (""Mrs Harbeck"")",2,1,0.0,Yrois,40248747,0,59,4,1.0,2,1.0
+42.0,85,1,8.6625,"Dimic, Mr. Jovan",3,2,0.0,Dimic,40315088,0,41,10,1.0,1,0.0
+32.5,69,1,13.0,"Webber, Miss. Susan",2,1,1.0,Webber,40027267,101,87,6,1.0,3,3.0
+29.58,85,1,7.25,"Keefe, Mr. Arthur",3,2,0.0,Keefe,40323592,0,65,3,0.0,0,0.0
+25.0,85,1,7.775,"Lindahl, Miss. Agda Thorilda Viktoria",3,1,0.0,Lindahl,40347071,0,111,10,1.0,5,2.0
+70.5,85,3,7.75,"Connors, Mr. Patrick",3,2,0.0,Connors,40370369,0,40,5,0.0,3,3.0
+43.0,85,1,6.45,"Holm, Mr. John Fredrik Alexander",3,2,0.0,Holm,150007075,0,19,2,0.0,1,1.0
+22.0,85,1,7.7958,"Johansson, Mr. Erik",3,2,0.0,Johansson,40350052,0,37,10,2.0,2,0.0
+27.0,85,1,7.7958,"Andersson, Mr. August Edvard (""Wennerstrom"")",3,2,1.0,Andersson,40350043,0,37,10,2.0,2,0.0
+35.0,69,1,26.2875,"Silverthorne, Mr. Spencer Victor",1,2,1.0,Silverthorne,20017475,24,4,10,3.0,3,2.0
+42.0,85,1,7.55,"Abbing, Mr. Anthony",3,2,0.0,Abbing,60005547,0,90,1,0.0,0,0.0
+26.77,85,1,7.8958,"Laleff, Mr. Kristo",3,2,0.0,Laleff,40349217,0,76,37,0.0,2,1.0
+36.0,69,1,26.3875,"Flynn, Mr. John Irwin (""Irving"")",1,2,1.0,Flynn,20017474,25,4,10,3.0,3,2.0
+62.0,67,1,26.55,"Stead, Mr. William Thomas",1,2,0.0,Stead,40113514,87,57,13,4.0,1,1.0
+36.0,85,1,10.5,"Reeves, Mr. David",2,2,0.0,Reeves,60017248,0,89,2,0.0,0,0.0
+48.0,68,1,25.9292,"Swift, Mrs. Frederick Joel (Margaret Welles Barron)",1,1,1.0,Swift,40017466,17,42,2,1.0,2,2.0
+33.0,85,1,9.5,"Vande Velde, Mr. Johannes Joseph",3,2,0.0,Vande Velde,40345780,0,50,11,2.0,0,0.0
+26.77,85,1,7.8958,"Nenkoff, Mr. Christo",3,2,0.0,Nenkoff,40349234,0,76,37,0.0,2,1.0
+30.0,85,1,10.5,"Harris, Mr. Walter",2,2,0.0,Harris,120014208,0,2,2,0.0,0,0.0
+57.0,85,3,12.35,"Kirkland, Rev. Charles Leonard",2,2,0.0,Kirkland,40219533,0,35,2,0.0,0,0.0
+27.44,85,3,7.725,"Scanlan, Mr. James",3,2,0.0,Scanlan,40036209,0,118,1,0.0,2,2.0
+15.0,85,3,8.0292,"McGowan, Miss. Anna ""Annie""",3,1,1.0,McGowan,40330923,0,34,2,0.0,6,6.0
+28.5,85,2,7.2292,"Novel, Mr. Mansouer",3,2,0.0,Novel,40002697,0,0,23,3.0,3,3.0
+21.0,85,1,7.25,"Windelov, Mr. Einar",3,2,0.0,Windelov,133101317,0,8,8,0.0,0,0.0
+20.0,85,1,7.8542,"Jensen, Mr. Hans Peder",3,2,0.0,Jensen,40350050,0,37,10,2.0,2,0.0
+23.63,85,2,7.2292,"Mamee, Mr. Hanna",3,2,1.0,Mamee,40002677,0,0,23,3.0,3,3.0
+55.0,85,1,16.0,"Hewlett, Mrs. (Mary D Kingcome) ",2,1,1.0,Hewlett,40248706,0,59,4,1.0,2,1.0
+19.0,85,1,8.05,"Dorking, Mr. Edward Arthur",3,2,1.0,Dorking,10010482,0,99,2,1.0,0,0.0
+28.0,85,1,9.5,"Vande Walle, Mr. Nestor Cyriel",3,2,0.0,Vande Walle,40345770,0,50,11,2.0,0,0.0
+50.0,85,1,10.5,"Toomey, Miss. Ellen",2,1,1.0,Toomey,190013531,0,14,0,0.0,1,1.0
+39.0,85,1,13.0,"Otter, Mr. Richard",2,2,0.0,Otter,40028213,0,87,6,1.0,3,3.0
+27.8,85,2,7.225,"Masselmani, Mrs. Fatima",3,1,1.0,Masselmani,40002649,0,0,23,3.0,3,3.0
+20.0,85,1,7.8542,"Andreasson, Mr. Paul Edvin",3,2,0.0,Andreasson,40347466,0,66,7,0.0,1,1.0
+21.0,85,3,7.7333,"Charters, Mr. David",3,2,0.0,Charters,10013032,0,11,1,0.0,0,0.0
+44.0,85,1,7.925,"Sundman, Mr. Johan Julian",3,2,1.0,Sundman,33101269,0,16,11,4.0,3,2.0
+27.0,69,1,10.5,"Troutt, Miss. Edwina Celia ""Winnie""",2,1,1.0,Troutt,40034218,101,95,0,0.0,1,1.0
+28.0,67,1,26.55,"Bjornstrom-Steffansson, Mr. Mauritz Hakan",1,2,1.0,Bjornstrom-Steffansson,40110564,52,36,1,1.0,0,0.0
+22.0,85,1,7.75,"Nysten, Miss. Anna Sofia",3,1,1.0,Nysten,40347081,0,111,10,1.0,5,2.0
+36.0,68,1,13.0,"Ball, Mrs. (Ada E Hall)",2,1,1.0,Ball,40028551,0,87,6,1.0,3,3.0
+27.44,85,3,7.7375,"Kilgannon, Mr. Thomas J",3,2,0.0,Kilgannon,40036865,0,55,4,0.0,1,1.0
+45.03,85,1,0.0,"Frost, Mr. Anthony Wood ""Archie""",2,2,0.0,Frost,40239854,0,63,2,0.0,1,1.0
+27.23,85,1,7.05,"Jardin, Mr. Jose Neto",3,2,0.0,Jardin,133101305,0,8,8,0.0,0,0.0
+26.77,85,1,7.8958,"Todoroff, Mr. Lalio",3,2,0.0,Todoroff,40349216,0,76,37,0.0,2,1.0
+19.0,85,3,6.75,"Burke, Mr. Jeremiah",3,2,0.0,Burke,40365222,0,46,5,0.0,2,0.0
+25.0,85,3,7.7417,"Gallagher, Mr. Martin",3,2,0.0,Gallagher,40036864,0,55,4,0.0,1,1.0
+48.8,85,2,30.6958,"Hoyt, Mr. William Fisher",1,2,0.0,Hoyt,20017600,0,4,10,3.0,3,2.0
+32.0,85,1,13.0,"Pinsky, Mrs. (Rosa)",2,1,1.0,Pinsky,40234604,0,78,3,0.0,2,2.0
+29.0,85,1,10.5,"Coleridge, Mr. Reginald Charles",2,2,0.0,Coleridge,120014263,0,2,2,0.0,0,0.0
+45.0,85,1,7.75,"Lindblom, Miss. Augusta Charlotta",3,1,0.0,Lindblom,40347073,0,111,10,1.0,5,2.0
+38.95,85,1,0.0,"Parr, Mr. William Henry Marsh",1,2,0.0,Parr,40112052,0,79,3,0.0,1,1.0
+48.5,67,1,26.55,"Klaber, Mr. Herman",1,2,0.0,Klaber,40113028,124,113,6,1.0,0,0.0
+65.0,69,1,26.55,"Millet, Mr. Francis Davis",1,2,0.0,Millet,40013509,38,117,4,2.0,0,0.0
+40.0,85,2,7.225,"Badt, Mr. Mohamed",3,2,0.0,Badt,40002623,0,0,23,3.0,3,3.0
+33.16,85,2,7.8958,"Gheorgheff, Mr. Stanio",3,2,0.0,Gheorgheff,40349254,0,76,37,0.0,2,1.0
+43.53,85,3,7.75,"Horgan, Mr. John",3,2,0.0,Horgan,40370377,0,40,5,0.0,3,3.0
+31.0,85,1,13.0,"Wilhelms, Mr. Charles",2,2,1.0,Wilhelms,40244270,0,38,4,2.0,0,0.0
+22.0,85,1,7.8958,"Naidenoff, Mr. Penko",3,2,0.0,Naidenoff,40349206,0,76,37,0.0,2,1.0
+30.0,85,1,13.0,"Sinkkonen, Miss. Anna",2,1,1.0,Sinkkonen,40250648,0,85,2,0.0,1,1.0
+19.0,85,1,7.8958,"Cor, Mr. Liudevit",3,2,0.0,Cor,40349231,0,76,37,0.0,2,1.0
+19.0,85,1,10.1708,"Dakic, Mr. Branko",3,2,0.0,Dakic,40349228,0,76,37,0.0,2,1.0
+22.0,85,1,9.0,"Waelens, Mr. Achille",3,2,0.0,Waelens,40345767,0,50,11,2.0,0,0.0
+18.0,85,1,8.3,"Allum, Mr. Owen George",3,2,0.0,Allum,40002223,0,0,23,3.0,3,3.0
+39.0,85,1,7.925,"Niskanen, Mr. Juha",3,2,1.0,Niskanen,33101289,0,16,11,4.0,3,2.0
+26.77,85,1,7.8958,"Slabenoff, Mr. Petco",3,2,0.0,Slabenoff,40349214,0,76,37,0.0,2,1.0
+30.23,85,1,8.05,"Sirota, Mr. Maurice",3,2,0.0,Sirota,40392092,0,43,1,0.0,0,0.0
+26.07,85,3,7.75,"Jermyn, Miss. Annie",3,1,1.0,Jermyn,40014313,0,68,1,0.0,3,3.0
+36.0,68,2,12.875,"Levy, Mr. Rene Jacques",2,2,0.0,Levy,70002163,0,6,4,1.0,0,0.0
+32.0,85,1,7.925,"Jussila, Mr. Eiriik",3,2,1.0,Jussila,33101286,0,16,11,4.0,3,2.0
+22.76,85,3,7.8792,"Mockler, Miss. Helen Mary ""Ellie""",3,1,1.0,Mockler,40330980,0,34,2,0.0,6,6.0
+22.0,85,2,7.225,"Leeni, Mr. Fahim (""Philip Zenni"")",3,2,1.0,Leeni,40002620,0,0,23,3.0,3,3.0
+45.0,85,1,13.5,"Kelly, Mrs. Florence ""Fannie""",2,1,1.0,Kelly,40223596,0,106,0,0.0,1,1.0
+30.0,85,1,9.5,"de Mulder, Mr. Theodore",3,2,1.0,de Mulder,40345774,0,50,11,2.0,0,0.0
+30.23,85,1,8.05,"Slocovski, Mr. Selman Francis",3,2,0.0,Slocovski,130392086,0,31,5,2.0,1,0.0
+22.0,85,1,9.35,"Berglund, Mr. Karl Ivar Sven",3,2,0.0,Berglund,50004348,0,23,1,0.0,0,0.0
+30.5,85,1,8.05,"Tomlin, Mr. Ernest Portage",3,2,0.0,Tomlin,40364499,0,46,5,0.0,2,0.0
+35.0,85,1,8.05,"Brocklebank, Mr. William Alfred",3,2,0.0,Brocklebank,40364512,0,46,5,0.0,2,0.0
+28.8,85,2,13.8625,"Padro y Manent, Mr. Julian",2,2,1.0,Padro y Manent,70002146,0,6,4,1.0,0,0.0
+27.0,85,1,6.975,"Hedman, Mr. Oskar Arvid",3,2,1.0,Hedman,40347089,0,111,10,1.0,5,2.0
+35.0,85,2,7.8958,"Markoff, Mr. Marin",3,2,0.0,Markoff,40349213,0,76,37,0.0,2,1.0
+43.53,85,3,7.75,"McCormack, Mr. Thomas Joseph",3,2,1.0,McCormack,40367228,0,77,3,1.0,0,0.0
+51.0,85,1,12.525,"Bateman, Rev. Robert James",2,2,0.0,Bateman,160001166,0,7,1,0.0,0,0.0
+46.82,68,1,30.0,"Hawksford, Mr. Walter James",1,2,1.0,Hawksford,40016988,45,42,2,1.0,2,2.0
+36.0,85,1,13.0,"Buss, Miss. Kate",2,1,1.0,Buss,40027849,0,87,6,1.0,3,3.0
+19.0,85,1,7.8958,"Petroff, Mr. Nedelio",3,2,0.0,Petroff,40349212,0,76,37,0.0,2,1.0
+18.0,85,1,9.8417,"Turja, Miss. Anna Sofia",3,1,1.0,Turja,40004138,0,98,3,0.0,3,2.0
+18.0,85,1,11.5,"Bailey, Mr. Percy Andrew",2,2,0.0,Bailey,40029108,0,39,5,0.0,0,0.0
+22.76,85,3,7.8792,"O'Dwyer, Miss. Ellen ""Nellie""",3,1,1.0,O'Dwyer,40330959,0,34,2,0.0,6,6.0
+26.0,85,1,7.8958,"Balkic, Mr. Cerin",3,2,0.0,Balkic,40349248,0,76,37,0.0,2,1.0
+52.0,67,1,30.5,"Peuchen, Major. Arthur Godfrey",1,2,1.0,Peuchen,40113786,104,57,13,4.0,1,1.0
+45.03,85,1,0.0,"Watson, Mr. Ennis Hastings",2,2,0.0,Watson,40239856,0,63,2,0.0,1,1.0
+22.0,85,2,7.2292,"Sirayanian, Mr. Orsen",3,2,0.0,Sirayanian,40002669,0,0,23,3.0,3,3.0
+48.0,85,1,13.0,"Milling, Mr. Jacob Christian",2,2,0.0,Milling,40234360,0,78,3,0.0,2,2.0
+22.0,85,1,7.125,"Maenpaa, Mr. Matti Alexanteri",3,2,0.0,Maenpaa,33101275,0,16,11,4.0,3,2.0
+30.0,85,2,7.225,"Attalah, Mr. Sleiman",3,2,0.0,Attalah,40002694,0,0,23,3.0,3,3.0

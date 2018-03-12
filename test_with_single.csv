@@ -1,0 +1,47 @@
+Age,Cabin,Embarked,Fare,Name,Pclass,Sex,Survived,Surname,TKID,CabinNum,SingleCluster,clustermale,aliveclustermale,clusterfemale,aliveclusterfemale
+24.0,70,1,13.0,"Brown, Miss. Amelia ""Mildred""",2,1,1.0,Brown,40248733,33,59,4,1.0,2,1.0
+34.0,85,1,13.0,"Garside, Miss. Ethel",2,1,1.0,Garside,40243880,0,38,4,2.0,0,0.0
+18.0,85,1,7.75,"Myhrman, Mr. Pehr Fabian Oliver Malkolm",3,2,0.0,Myhrman,40347078,0,111,10,1.0,5,2.0
+61.0,85,1,6.2375,"Nysveen, Mr. Johan Hansen",3,2,0.0,Nysveen,40345364,0,50,11,2.0,0,0.0
+22.76,85,3,7.8792,"McGovern, Miss. Mary",3,1,1.0,McGovern,40330931,0,34,2,0.0,6,6.0
+50.0,85,1,10.5,"Ridsdale, Miss. Lucy",2,1,1.0,Ridsdale,120014258,0,2,2,0.0,0,0.0
+40.76,67,1,30.5,"Saalfeld, Mr. Adolphe",1,2,1.0,Saalfeld,40019988,106,91,3,2.0,0,0.0
+30.23,85,1,8.05,"Peduzzi, Mr. Joseph",3,2,0.0,Peduzzi,10002817,0,105,2,0.0,0,0.0
+26.77,85,1,7.8958,"Radeff, Mr. Alexander",3,2,0.0,Radeff,40349223,0,76,37,0.0,2,1.0
+33.94,85,2,27.7208,"Stewart, Mr. Albert A",1,2,0.0,Stewart,20017605,0,4,10,3.0,3,2.0
+18.0,85,1,7.775,"Edvardsson, Mr. Gustaf Hjalmar",3,2,0.0,Edvardsson,40349912,0,37,10,2.0,2,0.0
+16.0,85,3,7.75,"Carr, Miss. Helen ""Ellen""",3,1,1.0,Carr,40367231,0,77,3,1.0,0,0.0
+45.0,85,1,8.05,"Dahl, Mr. Karl Edwart",3,2,1.0,Dahl,40007598,0,82,2,0.0,2,0.0
+26.53,85,2,7.225,"Boulos, Mr. Hanna",3,2,0.0,Boulos,40002664,0,0,23,3.0,3,3.0
+26.77,85,1,7.8958,"Petroff, Mr. Pastcho (""Pentcho"")",3,2,0.0,Petroff,40349215,0,76,37,0.0,2,1.0
+26.07,85,3,7.75,"Henry, Miss. Delia",3,1,0.0,Henry,40382649,0,53,2,1.0,0,0.0
+18.0,85,1,13.0,"Fahlstrom, Mr. Arne Jonas",2,2,0.0,Fahlstrom,40236171,0,48,0,0.0,0,0.0
+29.0,85,2,7.8958,"Jalsevac, Mr. Ivan",3,2,1.0,Jalsevac,40349240,0,76,37,0.0,2,1.0
+36.0,69,1,26.2875,"McGough, Mr. James Robert",1,2,1.0,McGough,20017473,25,4,10,3.0,3,2.0
+40.0,65,2,31.0,"Blank, Mr. Henry",1,2,1.0,Blank,40112277,31,79,3,0.0,1,1.0
+15.0,85,2,7.225,"Najib, Miss. Adele Kiamie ""Jane""",3,1,1.0,Najib,40002667,0,0,23,3.0,3,3.0
+30.0,85,1,13.0,"Givard, Mr. Hans Kristensen",2,2,0.0,Givard,40250646,0,85,2,0.0,1,1.0
+44.7,85,2,39.6,"Brewe, Dr. Arthur Jackson",1,2,0.0,Brewe,40112379,0,79,3,0.0,1,1.0
+21.0,85,1,8.05,"Cann, Mr. Ernest Charles",3,2,0.0,Cann,10002152,0,105,2,0.0,0,0.0
+25.0,85,1,13.0,"Butler, Mr. Reginald Fenton",2,2,0.0,Butler,40234686,0,78,3,0.0,2,2.0
+41.0,85,1,7.125,"Nirva, Mr. Iisakki Antino Aijo",3,2,0.0,Nirva,293101272,0,9,1,0.0,0,0.0
+20.04,85,1,8.05,"Meek, Mrs. Thomas (Annie Louise Rowley)",3,1,0.0,Meek,40343095,0,71,4,0.0,1,1.0
+36.0,85,1,7.4958,"Coleff, Mr. Peju",3,2,0.0,Coleff,40349210,0,76,37,0.0,2,1.0
+23.0,85,1,10.5,"Pain, Dr. Alfred",2,2,0.0,Pain,40244278,0,38,4,2.0,0,0.0
+18.0,85,3,6.75,"Hegarty, Miss. Hanora ""Nora""",3,1,0.0,Hegarty,40365226,0,46,5,0.0,2,0.0
+34.0,85,1,6.4958,"Johanson, Mr. Jakob Alfred",3,2,0.0,Johanson,43101264,0,33,1,0.0,2,2.0
+16.0,85,1,8.05,"Rush, Mr. Alfred George John",3,2,0.0,Rush,90020589,0,62,0,0.0,0,0.0
+30.0,85,1,8.05,"Corn, Mr. Harry",3,2,0.0,Corn,130392090,0,31,5,2.0,1,0.0
+20.5,85,1,7.25,"Lovell, Mr. John Hall (""Henry"")",3,2,0.0,Lovell,10021173,0,56,3,0.0,0,0.0
+30.0,85,1,8.6625,"Cacic, Miss. Marija",3,1,0.0,Cacic,40315084,0,41,10,1.0,1,0.0
+32.0,85,1,7.8542,"Jonsson, Mr. Carl",3,2,1.0,Jonsson,40350417,0,37,10,2.0,2,0.0
+45.52,67,2,29.7,"Marechal, Mr. Pierre",1,2,1.0,Marechal,40011774,47,93,2,0.0,0,0.0
+44.0,85,1,8.05,"Torber, Mr. Ernst William",3,2,0.0,Torber,40364511,0,46,5,0.0,2,0.0
+24.0,85,1,8.85,"Haas, Miss. Aloisia",3,1,0.0,Haas,40349236,0,76,37,0.0,2,1.0
+17.61,85,3,8.1375,"Peters, Miss. Katie",3,1,0.0,Peters,40330935,0,34,2,0.0,6,6.0
+43.53,85,3,7.75,"Keane, Mr. Andrew ""Andy""",3,2,0.0,Keane,40012460,0,93,2,0.0,0,0.0
+28.3,85,3,7.6292,"O'Sullivan, Miss. Bridget Mary",3,1,0.0,O'Sullivan,40330909,0,34,2,0.0,6,6.0
+43.53,85,3,7.75,"Morrow, Mr. Thomas Rowan",3,2,0.0,Morrow,40372622,0,104,1,0.0,0,0.0
+18.0,85,1,11.5,"Andrew, Mr. Edgardo Samuel",2,2,0.0,Andrew,40231945,0,84,0,0.0,0,0.0
+45.03,85,1,0.0,"Knight, Mr. Robert J",2,2,0.0,Knight,40239855,0,63,2,0.0,1,1.0
+43.53,85,3,7.75,"Flynn, Mr. James",3,2,0.0,Flynn,40364851,0,46,5,0.0,2,0.0
